@@ -1,23 +1,29 @@
 # Hey, I'm Clement 👋
 
-Tech-passionate student who loves building tools that solve real problems.
+  Student developer building small, useful tools — mostly around AI and macOS.
 
-Currently exploring **macOS development**, **AI tooling**, and **automation**.
+  Currently exploring the space between AI-assisted coding and real-world utility apps.
+  Sharing everything I build along the way.
 
-### Featured Projects
+  ## 🔧 What I'm working on
 
-| Project | Description |
-|---------|-------------|
-| [TokenBar](https://github.com/ClemShips/TokenBar) | macOS menubar app to track Claude Code token usage in real time |
+  | Project | Description |
+  |---------|-------------|
+  | [TokenBar](https://github.com/ClemShips/TokenBar) | macOS menubar app to track Claude Code token usage in real time
+  |
+  | 🔜 Workflow app | A tool to manage your dev workflow efficiently *(coming soon)* |
 
-### GitHub Stats
+  ## 🧰 Tech I use
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClemShips&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+  ![Claude](https://img.shields.io/badge/-Claude-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
 
----
+  ## 📬 Find me
 
-<p align="center">
-  <i>Building in public — feel free to explore, star, or contribute.</i>
-</p>
+  [![X](https://img.shields.io/badge/-@ClemShips-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ClemShi
+  ps)
+
+  ---
+
+  *Building in public — follow along, star what you like, or reach out.*
